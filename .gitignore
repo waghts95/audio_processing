@@ -10,5 +10,5 @@ wheels/
 .venv
 
 # input output audio files
-.wav
-.mp3
+*.wav
+*.mp3
